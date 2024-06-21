@@ -141,8 +141,7 @@ void LimparTela()
     #endif
 }
 
-void ExibirMenu()
-{
+
     LimparTela();
     printf("===== Torre de Hanoi =====\n");
     printf("Número de discos: %d\n", quantidade);
